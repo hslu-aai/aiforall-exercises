@@ -1,2 +1,3 @@
-# aiforall-exercises
-Exercises for the AI for All Course
+# AI for ALL - Hands On Exercises
+
+![Illustration Course Setup](assets/course_setup.png)
